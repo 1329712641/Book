@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/.gitignore
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/untils.iml
+.idea/vcs.xml
+.idea/
+DataSourceConfig.java
+target/
+generatorConfig.xml
+mbg/src/test/
